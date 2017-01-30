@@ -1,4 +1,4 @@
-
+package students;
 import javax.swing.JOptionPane;
 
 public class VisitingStudent extends Student

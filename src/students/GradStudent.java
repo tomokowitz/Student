@@ -1,3 +1,6 @@
+package students;
+
+
 import javax.swing.JOptionPane;
 
 public class GradStudent extends Student
